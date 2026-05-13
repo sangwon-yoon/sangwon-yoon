@@ -10,4 +10,4 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+- **[Silent Corridor](https://github.com/sangwon-yoon/threat-hunt/blob/main/silent-corridor.md)**
