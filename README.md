@@ -6,7 +6,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/sangwon-yoon/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**
 
 ## Threat Hunting and Security Operations
 
